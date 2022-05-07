@@ -1,2 +1,1 @@
-# curve_case
-PBS Championship
+This repository contains solution of Curve case (PBS championship)
